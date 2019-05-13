@@ -1,9 +1,7 @@
 ---
-title: "The Beginning"
-date: 2017-10-17T15:26:15Z
+title: "Home"
 type: docs
 weight: 1
-description: "We have to start somewhere."
 
 ---
 
@@ -19,6 +17,7 @@ We believe that the majority of people should be able to know and voluntarily ac
 
 Additionally, as the need arises, this document can and should be amended individually and shared with others.  The ability for change is important because of changes in language over time, and due to [semantic drift](https://en.wikipedia.org/wiki/Semantic_change).  Many other attempts at writing a covenant like this have failed in the long term due to a failure to adapt and the development of [mysticism](https://en.wikipedia.org/wiki/Mysticism) around semantically drifted words.  Thus this document will be maintained in unicode, and maintained in a version control system such as git.  In this way, forks can be made, and changes reviewed with a rationale by anyone who seeks to better understand what they are taking upon themselves.
 
+<<<<<<< patch-1
 We have chosen the name `Ama-gi project` because the word Ama-gi is from one of the oldest known languages.  It means "to return to the mother" and it represented the concern of returning a slave to their family and the forgiveness of their debts.
 
 The primary mechanism by which we will improve the human condition is by creating a voluntary system of rules and values which are result in clear and direct human action.   These rules should create a [Nash Equilibrium](https://en.wikipedia.org/wiki/Nash_equilibrium) whereby everyone will voluntarily follow these commitments.  The commitments should ensure that [public goods](https://en.wikipedia.org/wiki/Public_good)  are paid for and produced in reasonable proportion to the total economic activity and that a set of laws that can be agreed upon and followed by two standard deviations worth of the population (95%).
@@ -40,3 +39,8 @@ The goal of a public goods administration is to ensure receipt of fair participa
 It is easily argued that commodity monies are insufficient for the operation of large scale economies.  At the same time, paper money requires a counterparty.  To mitigate the counterparty risk, this counterparty must maintain a standing military and police force to enforce various requirements on the use of money.
 
 Both of these issues render a society based on voluntary participation impossible.  However, in 2009 we invented Bitcoin which is a cryptographic currency which has no counterparty risk and allows for cryptographic verifiable of various things.
+=======
+We have chosen the name `The Book of Ecumenopolis` because we seek to create a common citizenry.  Ecumenopolis means "world city."  In order to accomplish this vision, we seek to create a common set of laws which everyone can commit to themselves to follow.
+
+The primary mechanism by which we will improve the human condition is by creating a voluntary system of rules and values which are result in clear and direct human action.   These rules should create a [Nash Equilibrium](https://en.wikipedia.org/wiki/Nash_equilibrium) whereby everyone will voluntarily follow these commitments.  The commitments should ensure that [public goods](https://en.wikipedia.org/wiki/Public_good)  are paid for and produced in reasonable proportion to the total economic activity, and that a set of laws that can be agreed upon and followed by two standard deviations worth of the population (95%).
+>>>>>>> master
